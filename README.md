@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+# Link to the displayed page
+https://000player.github.io/Journal-App-V2/
+
+
 ## Available Scripts
 
 In the project directory, you can run:
